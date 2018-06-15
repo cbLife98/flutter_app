@@ -1,8 +1,5 @@
-# flutter_app
+Favourite Application
 
-A new Flutter application.
 
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+A flutter appication that is a full preview of all the basic elements of flutter
+Includes navigation,cross platform and many more features
